@@ -4,3 +4,8 @@ than education you are insane, or perhaps just very interested.
 We welcome your testing, please file bug reports at
 https://bugzilla.samba.org/, product: Samba4.  Please include as much
 information as possible, such as SVN revision number and backtraces.
+
+Feature requests:
+Implement a multicall binary
+Backport features from GPL3 version with permission to license GPL2+
+Simplify code base and documentation.
